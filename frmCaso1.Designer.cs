@@ -106,7 +106,7 @@
             // 
             // btnPresentacion
             // 
-            btnPresentacion.Location = new Point(109, 270);
+            btnPresentacion.Location = new Point(135, 270);
             btnPresentacion.Name = "btnPresentacion";
             btnPresentacion.Size = new Size(156, 50);
             btnPresentacion.TabIndex = 8;
